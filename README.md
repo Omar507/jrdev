@@ -21,3 +21,10 @@ Run ``npm install`` on the project's root and client folder.
 
 Since I'm using Windows 10 I used the WSL (Windows Subsystem for Linux) with an Ubuntu shell to set up redis. 
 This proved to be very convenient for installing and setting up redis.
+
+## Instructions for local development
+Run ``npm start`` on /client directory.
+
+Run ``node index.js`` on /worker directory.
+
+Run ``node index.js`` on /api.
